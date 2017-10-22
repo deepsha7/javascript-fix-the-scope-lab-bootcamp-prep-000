@@ -22,7 +22,7 @@ function add2(n) {
 }
 add2(755);
 var funkyFunction = function() {
-  return function() {
+   function() first {
     return "FUNKY!"
   }
 }
